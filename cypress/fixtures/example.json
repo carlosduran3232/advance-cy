@@ -1,0 +1,16 @@
+{
+  "name": "Carlos",
+  "lastname": "Duran",
+  "email": "duran@gmail.com",
+  "sexo": "Male",
+  "phone": "1234567890",
+  "date": ["December","1990","31"],
+  "materia":"English",
+  "hobbies":["Sports","Music"],
+  "image": "COD-1.png",
+  "address":"Santiago",
+  "state":"NCR",
+  "city":"Delhi"
+  
+  
+}
